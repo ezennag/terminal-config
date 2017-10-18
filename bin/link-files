@@ -1,0 +1,2 @@
+ln -sf ~/terminal-config/zshrc ~/.zshrc
+ln -sf ~/terminal-config/profile ~/.profile
