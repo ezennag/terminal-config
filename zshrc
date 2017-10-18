@@ -90,5 +90,6 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
- alias zshconfig="mate ~/.zshrc"
+ alias ze="atom ~/terminal-config/zshrc"
+ alias zr="source ~/terminal-config/zshrc"
  alias ohmyzsh="mate ~/.oh-my-zsh"
